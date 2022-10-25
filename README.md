@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/main/header-codesandbox.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/raw/main/header-codesandbox.gif" alt="Oi, eu sou a Kizzy">
 </p>
 
 <!--
