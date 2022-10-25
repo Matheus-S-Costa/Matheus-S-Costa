@@ -19,7 +19,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 👨‍💻 All of my projects are available at [https://myportfoliomsc.herokuapp.com/](https://myportfoliomsc.herokuapp.com/)
 
-- 💬 Ask me about **python, js**
+- 💬 Ask me about **tecnologia, python, js**
 
 - 📫 How to reach me **matheusilva334@gmail.com**
 
