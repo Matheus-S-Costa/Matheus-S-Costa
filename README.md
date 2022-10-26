@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/raw/main/code.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/raw/main/code.gif" alt="Oi, eu sou o Matheus">
 </p>
 
 <!--
@@ -26,11 +26,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - ⚡ Curiosidade sobre mim **Amo esportes em geral, principalmente futebol**
 
 </br>
-<h3 align="left">🔗 Entre em contato comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
-<a href="https://instagram.com/matheus_costaa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_costaa7" height="30" width="40" /></a>
-</p>
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
@@ -44,6 +39,14 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-s-costa&show_icons=true&locale=en" alt="matheus-s-costa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-s-costa&" alt="matheus-s-costa" /></p>
+
+</br>
+
+<h3 align="left">🔗 Entre em contato comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
+<a href="https://instagram.com/matheus_costaa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_costaa7" height="30" width="40" /></a>
+</p>
 
 <!--
 Here are some ideas to get you started:
