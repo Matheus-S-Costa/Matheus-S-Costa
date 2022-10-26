@@ -36,14 +36,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <h3 align="left"> 📊 Métricas do Github: </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-s-costa&show_icons=true&locale=en&layout=compact" alt="matheus-s-costa" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-s-costa&show_icons=true&locale=en" alt="matheus-s-costa" /></p>
-</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-s-costa&show_icons=true&locale=en" alt="matheus-s-costa" /</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-s-costa&" alt="matheus-s-costa" /></p>
 
-</br>
 
+</br>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
