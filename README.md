@@ -25,11 +25,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - ⚡ Curiosidade sobre mim **Amo esportes em geral, principalmente futebol**
 
-<h3 align="left">Conecte-se comigo:</h3>
+</br>
+<h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
 <a href="https://instagram.com/matheus_costaa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_costaa7" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Xbmbte7G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MatheusCosta#1245" height="30" width="40" /></a>
 </p>
 
 <details>
@@ -44,3 +44,17 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-s-costa&show_icons=true&locale=en" alt="matheus-s-costa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-s-costa&" alt="matheus-s-costa" /></p>
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
