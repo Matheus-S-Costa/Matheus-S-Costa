@@ -12,9 +12,6 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-s-costa&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-s-costa" /> </p>
-
-
 - 🌱 Eu atualmente estou aprendendo **Lógica de programação, python, js**
 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.herokuapp.com/](https://myportfoliomsc.herokuapp.com/)
@@ -34,6 +31,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </details>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-s-costa&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-s-costa" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-s-costa&show_icons=true&locale=en&layout=compact" alt="matheus-s-costa" /></p>
 
