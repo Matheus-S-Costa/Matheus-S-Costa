@@ -21,8 +21,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📫 Fale comigo em **matheusilva334@gmail.com**
 
 - ⚡ Curiosidade sobre mim **Amo esportes em geral, principalmente futebol**
-<hr>
+
 </br>
+<hr>
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
@@ -41,6 +42,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 
 </br>
+<hr>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
