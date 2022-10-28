@@ -24,7 +24,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </br>
 
 > "A força não provém da capacidade física. Provém de uma vontade indomável." -Mahatma Ghandi
-</br>
+
 <hr>
 
 <details>
