@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/raw/main/code.gif" alt="Oi, eu sou o Matheus">
 </p>
-
+***
 <!--
 How to make the bio gif ?
 💜 Thanks to [matyo91](https://github.com/matyo91)
@@ -11,7 +11,7 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
-
+***
 - 🌱 Eu atualmente estou aprendendo **Lógica de programação, python, js**
 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.herokuapp.com/](https://myportfoliomsc.herokuapp.com/)
@@ -21,7 +21,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📫 Fale comigo em **matheusilva334@gmail.com**
 
 - ⚡ Curiosidade sobre mim **Amo esportes em geral, principalmente futebol**
-
+***
 </br>
 
 <details>
