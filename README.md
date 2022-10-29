@@ -47,11 +47,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 </br>
 <hr>
-<h3 align="left">🔗 Entre em contato comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-s-costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-s-costaa" height="30" width="40" /></a>
-<a href="https://instagram.com/matheus_costaa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_costaa7" height="30" width="40" /></a>
+<p align="left">  
+  <p><strong>🔗 Entre em contato comigo:</strong></p>
+  <a href="https://myportfoliomsc.herokuapp.com/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=flat-square&logo=circle&logoColor=white&color=424242"></a>
+  <a href="https://www.linkedin.com/in/matheus-s-costaa/" target="__blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/costamatheus10" target="__blank"><img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=flat-square&logo=telegram&logoColor=white&color=0088cc"></a>
 </p>
+
 <hr>
 <!--
 Here are some ideas to get you started:
