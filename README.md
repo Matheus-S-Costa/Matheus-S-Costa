@@ -3,7 +3,7 @@
 </p>
 
 <!--
-How to make the bio gif?
+How to make the bio gif? 
 💜 Thanks to [matyo91](https://github.com/matyo91)
 
 I made my with https://codesandbox.io/s/github-profile-2ijk7
