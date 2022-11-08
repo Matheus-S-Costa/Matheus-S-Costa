@@ -2,7 +2,7 @@
   <img src="https://github.com/Matheus-S-Costa/Matheus-S-Costa/raw/main/code.gif" alt="Oi, eu sou o Matheus">
 </p>
 
-<!--
+<!-- 
 How to make the bio gif? 
 💜 Thanks to [matyo91](https://github.com/matyo91)
 
