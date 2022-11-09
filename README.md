@@ -49,7 +49,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <hr>
 <p align="left">  
   <p><strong>🔗 Entre em contato comigo:</strong></p>
-  <a href="https://myportfoliomsc.herokuapp.com/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=flat-square&logo=circle&logoColor=white&color=424242"></a>
+  <a href="https://myportfoliomsc.netlify.app/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=flat-square&logo=circle&logoColor=white&color=424242"></a>
   <a href="https://www.linkedin.com/in/matheus-s-costaa/" target="__blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://t.me/costamatheus10" target="__blank"><img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=flat-square&logo=telegram&logoColor=white&color=0088cc"></a>
 </p>
