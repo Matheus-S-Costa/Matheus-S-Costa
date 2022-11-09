@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🌱 Eu atualmente estou aprendendo **Lógica de programação, python, js**
 
-- 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.netlify.app/](https://myportfoliomsc.herokuapp.com/)
+- 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.netlify.app/](https://myportfoliomsc.netlify.app/)
 
 - 💬 Pergunte-me sobre **tecnologia, python, js, macOS** - ficarei contente em ajudar :)
 
