@@ -4,7 +4,7 @@
 
 <!-- 
 How to make the bio gif? 
-💜 Thanks to [matyo91](https://github.com/matyo91)
+💜 Thanks to [matyo91](https://github.com/matyo91) 
 
 I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
