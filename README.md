@@ -12,7 +12,7 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🌱 Eu atualmente estou aprendendo **Lógica de programação, python, js**
+- 🌱 Eu atualmente estou aprendendo **Lógica de programação, POO, Apex**
 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.netlify.app/](https://myportfoliomsc.netlify.app/)
 
