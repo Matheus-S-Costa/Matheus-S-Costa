@@ -16,7 +16,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://myportfoliomsc.netlify.app/](https://myportfoliomsc.netlify.app/)
 
-- 💬 Pergunte-me sobre **tecnologia, python, js, macOS** - ficarei contente em ajudar :)
+- 💬 Pergunte-me sobre **Programação Orientada a Objetos, SOQL, Apex, macOS** - ficarei contente em conversar sobre :)
 
 - 📫 Fale comigo em **matheusilva334@gmail.com**
 
